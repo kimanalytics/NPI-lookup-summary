@@ -1,0 +1,7 @@
+,Provider First Name,Provider Last Name,Provider State,NPI,Type,Confidence
+0,Ida,Kwok,CA,4555893625,Clean,0.99
+1,Arun,Nepal,CA,8102774266,Clean,0.99
+2,Marieta,Valev,CA,2062961130,Clean,0.99
+3,James,Van Dyne,CA,5171034323,Clean,0.99
+4,Zigui,Li,CA,2136934325,Clean,0.99
+5,Jimmy,Zhao,NY,1760877484,Found,0.95
